@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm shahab ganjapour</h1>
 <h2 align="center">A back-end developer</h2>
-<img align="right" alt="Coding" width="400" src="https://gist.github.com/mahmudinm/47588cab5af928d2c8a2976d90216ea7#file-programming-gif">
-
+<img src="https://gist.github.com/mahmudinm/47588cab5af928d2c8a2976d90216ea7/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahab8181&label=Profile%20views&color=0e75b6&style=flat" alt="shahab8181" /> </p>
 
