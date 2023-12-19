@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm shahab ganjapour</h1>
 <h2 align="center">A back-end developer</h2>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgist.github.com%2Fmahmudinm%2F47588cab5af928d2c8a2976d90216ea7&psig=AOvVaw2MBS22BVUVXmfmyeHWwUu9&ust=1703062637098000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDTp--Qm4MDFQAAAAAdAAAAABAD">
-<br>
-<br>
+<img align="right" alt="Coding" width="400" src="https://gist.github.com/mahmudinm/47588cab5af928d2c8a2976d90216ea7#file-programming-gif">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahab8181&label=Profile%20views&color=0e75b6&style=flat" alt="shahab8181" /> </p>
 
 - 🔭 I’m currently working on [khoshneshan](khoshneshan.com)
