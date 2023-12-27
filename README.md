@@ -28,21 +28,24 @@ int main()
 ```
 
 <h3 align="left">Skills:</h3>
-Languages & Tools: <br>
+Languages & Tools: 
+<br>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,c, regex" />
   </a>
 </p>
 <br>
-Frameworks & Softwares: <br>
+Frameworks & Softwares: 
+<br>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=django,postman,git,rabbitmq,docker,regex" />
   </a>
 </p>
 <br>
-Databases: <br>
+Databases: 
+<br>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,redis,mysql" />
