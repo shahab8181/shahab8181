@@ -1,17 +1,31 @@
 <h1 align="center">Hi 👋, I'm shahab ganjapour</h1>
 <h2 align="center">A back-end developer</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahab8181&label=Profile%20views&color=0e75b6&style=flat" alt="shahab8181" /> </p>
+```c
+#include <stdio.h>
 
-- 🔭 I’m currently working on [khoshneshan](khoshneshan.com)
-
-- 🌱 I’m currently learning **Django - SQL - ...**
-
-- 👨‍💻 All of my projects are available at [https://github.com/shahab8181?tab=repositories](https://github.com/shahab8181?tab=repositories)
-
-- 💬 Ask me about **Django - my works - ...**
-
-- 📫 How to reach me **ggod818181@gmail.com**
+int main()
+{
+    const char full_name[] = "shahab ganjapour";
+    int age = 21;
+    const char skills[11][20]= {
+        "python", "js", "django",
+        "postman", "git", "rabbitmq",
+        "postgresql", "redis", "mysql",
+        "docker", "and..."
+    };
+    
+    printf("hi!\nmy name is %s\n", full_name);
+    printf("age: %d\n", age);
+    printf("my skills: \n");
+    
+    for (int counter = 0; counter < 12; counter++) {
+        printf("\t%s ", skills[counter]);
+    };
+    
+    return 0;
+}
+```
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
