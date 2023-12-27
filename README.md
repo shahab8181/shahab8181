@@ -32,7 +32,7 @@ Languages & Tools:
 <br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,c, regex" />
+    <img src="https://skillicons.dev/icons?i=py,js,c,regex" />
   </a>
 </p>
 <br>
@@ -40,7 +40,7 @@ Frameworks & Softwares:
 <br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,postman,git,rabbitmq,docker,regex" />
+    <img src="https://skillicons.dev/icons?i=django,postman,git,rabbitmq,docker" />
   </a>
 </p>
 <br>
