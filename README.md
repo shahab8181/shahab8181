@@ -14,7 +14,7 @@
 - 📫 How to reach me **ggod818181@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,django,postman,git,rabbitmq,postgres,redis,mysql,docker,regex" />
   </a>
