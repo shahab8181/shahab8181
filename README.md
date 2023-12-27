@@ -36,14 +36,14 @@ Languages & Tools:
 </p>
 <br>
 Frameworks & Softwares:
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=django,postman,git,rabbitmq,docker,regex" />
   </a>
 </p>
 <br>
 Databases:
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,redis,mysql" />
   </a>
