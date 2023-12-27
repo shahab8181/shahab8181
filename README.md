@@ -20,7 +20,7 @@ int main()
     printf("my skills: \n");
     
     for (int counter = 0; counter < 12; counter++) {
-        printf("\t%s ", skills[counter]);
+        printf("\t%s", skills[counter]);
     };
     
     return 0;
@@ -33,7 +33,7 @@ output:
     my name is shahab ganjapour
     age: 21
     my skills: 
-        python    js    django    postman    git     rabbitmq        postgresql      redis    mysql    docker    and... 
+        python    js    django    postman    git     rabbitmq    postgresql    redis    mysql    docker    and... 
 ```
 
 <h2 align="left">Skills:</h3>
