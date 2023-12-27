@@ -6,7 +6,7 @@
 
 int main()
 {
-    const char full_name[] = "shahab ganjapour";
+    const char full_name[16] = "shahab ganjapour";
     int age = 21;
     const char skills[11][20]= {
         "python", "js", "django",
