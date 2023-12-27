@@ -27,7 +27,7 @@ int main()
 }
 ```
 
-<h3 align="left">Skills:</h3>
+<h2 align="left">Skills:</h3>
 Languages & Tools: 
 <br>
 <p align="left">
