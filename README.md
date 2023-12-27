@@ -28,12 +28,11 @@ int main()
 ```
 output:
 ```
-output:
-    hi!
-    my name is shahab ganjapour
-    age: 21
-    my skills: 
-        python    js    django    postman    git     rabbitmq    postgresql    redis    mysql    docker    and... 
+hi!
+my name is shahab ganjapour
+age: 21
+my skills: 
+    python    js    django    postman    git     rabbitmq    postgresql    redis    mysql    docker    and... 
 ```
 
 <h2 align="left">Skills:</h3>
