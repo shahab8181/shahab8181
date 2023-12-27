@@ -27,7 +27,7 @@ int main()
 }
 ```
 
-<h3 align="left">Skills:</h3>
+<h3 align="center">Skills:</h3>
   Languages & Tools:
 <p align="left">
   <a href="https://skillicons.dev">
@@ -35,14 +35,14 @@ int main()
   </a>
 </p>
 <br>
-<p align="left">
+<p align="center">
     Frameworks & Softwares:
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=django,postman,git,rabbitmq,docker,regex" />
   </a>
 </p>
 <br>
-<p align="left">
+<p align="center">
     Databases:
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,redis,mysql" />
