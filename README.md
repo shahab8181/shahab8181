@@ -1,4 +1,4 @@
-<h1 align="center">A back-end developer</h1>
+<h1 align="center">Back-end Developer</h1>
 
 ```c
 #include <stdio.h>
