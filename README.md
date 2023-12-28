@@ -36,7 +36,7 @@ my skills:
 Languages & Tools: 
 <br>
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/shahab8181?tab=repositories">
     <img src="https://skillicons.dev/icons?i=py,js,c,regex" />
   </a>
 </p>
@@ -44,7 +44,7 @@ Languages & Tools:
 Frameworks & Softwares: 
 <br>
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/shahab8181?tab=repositories">
     <img src="https://skillicons.dev/icons?i=django,postman,git,rabbitmq,docker" />
   </a>
 </p>
@@ -52,7 +52,7 @@ Frameworks & Softwares:
 Databases: 
 <br>
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/shahab8181?tab=repositories">
     <img src="https://skillicons.dev/icons?i=postgres,redis,mysql" />
   </a>
 </p>
