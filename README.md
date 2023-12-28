@@ -16,8 +16,7 @@ int main()
     };
     
     printf("hi!\nmy name is %s\n", full_name);
-    printf("age: %d\n", age);
-    printf("my skills: \n");
+    printf("age: %d\nmy skills: \n", age);
     
     for (int counter = 0; counter < 12; counter++) {
         printf("\t%s", skills[counter]);
