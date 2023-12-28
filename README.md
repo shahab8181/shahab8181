@@ -3,8 +3,7 @@
 ```c
 #include <stdio.h>
 
-int main()
-{
+int main() {
     const char full_name[16] = "shahab ganjapour";
     const int age = 21;
     const char skills[11][20]= {
