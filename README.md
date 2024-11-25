@@ -8,7 +8,7 @@ int main() {
     const int age = 21;
     const char skills[11][20]= {
         "python", "js", "django",
-        "postman", "git", "rabbitmq",
+        "postman", "git", "pyrogram",
         "postgresql", "redis", "mysql",
         "docker", "and..."
     };
@@ -29,7 +29,7 @@ hi!
 my name is shahab ganjapour
 age: 22
 my skills: 
-    python    js    django    postman    git     rabbitmq    postgresql    redis    mysql    docker    and... 
+    python    js    django    postman    git     pyrogram    postgresql    redis    mysql    docker    and... 
 ```
 
 <h2 align="left">Skills:</h3>
