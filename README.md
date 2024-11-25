@@ -45,7 +45,7 @@ Frameworks & Softwares:
 <br>
 <p align="left">
   <a href="https://github.com/shahab8181?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=django,nginx,postman,git,docker,vscode" />
+    <img src="https://skillicons.dev/icons?i=django,pyrogram,nginx,postman,git,docker,vscode" />
   </a>
 </p>
 <br>
